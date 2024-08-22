@@ -22,9 +22,8 @@ quick start guide,feature over view,usage examples ,collaboration guidelines,it 
 public repository is accesible to public users while private repository is only accesd by authorised users 
 public repository 
             advantages                                                                                              disadvantages
-1.Code is openly accessible to anyone, promoting collaboration and showcasing projects.                   1. Only collaborators with GitHub accounts can access and contribute to the reposito
-2.External developers can contribute improvements, bug fixes, and new features.                            2.External contributors roduce unwanted changes or malicious code.may int
-3.Public repositories can appear in search results, making it easier for others to discover your project   3.Sensitive or confidential code may be exposed to unauthorized users.
+1.Code is openly accessible to anyone, promoting collaboration and showcasing projects.                   1. Only collaborators with GitHub accounts can access and contribute to the repository
+2.External developers can contribute improvements, bug fixes, and new features.                            2.External contributors roduce unwanted changes or malicious code.may i
 private repository 
             advantages                                                                                                  disadvantages
 1.Only authorized users or groups who are explicitly added as collaborators can view   1. Code is not publicly accessible, making it harder to attract contributions or showcase projects.
@@ -32,7 +31,12 @@ private repository
 3. Facilitates seamless code sharing and collaboration within closed groups.           3.Private repositories require a GitHub paid plan, incurring additional expenses.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-
+create a github account
+create a new repository 
+edit the repository
+then commit the changes
+commites are snapshot changes you have made to a code
+Commits record the specific modifications that have been made to the code, making it easy to see what has changed between different versions of the project
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
